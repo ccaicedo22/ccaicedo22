@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CARLOS ANDRES BALAGUERA CAICEDO</h1>
+<h1 align="center">👋 CARLOS ANDRES BALAGUERA CAICEDO</h1>
 <h3 align="center">Como desarrollador de software FullStack con 2 años de experiencia y estudiante de Ingeniería en Sistemas, he adquirido habilidades y conocimientos en diversos lenguajes y tecnologías. Mi experiencia se ha centrado en el uso de PHP, GitHub, MYSQL, Laravel, JavaScript y Vue.js, los cuales he aplicado exitosamente en proyectos de desarrollo. Me considero un profesional comprometido y apasionado por mi trabajo. Disfruto colaborar en equipos multidisciplinarios y contribuir con soluciones creativas y eficientes. Estoy constantemente en busca de oportunidades para crecer profesionalmente y ampliar mis habilidades técnicas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccaicedo22&label=Profile%20views&color=0e75b6&style=flat" alt="ccaicedo22" /> </p>
