@@ -1,16 +1,63 @@
-<h1 align="center">👋 CARLOS ANDRES BALAGUERA CAICEDO</h1>
-<h3 align="center">Como desarrollador de software FullStack durante 3 años, actualmente soy estudiante de Ingeniería en sistemas, con experiencia utilizando lenguajes y tecnologías como PHP, GitHub, MYSQL, PostgreSQL, Laravel, JavaScript, SuiteScript, Vue.js, NetSuite, los cuales he podido aplicar mis conocimientos y mis aptitudes en el campo del desarrollo. Me considero un profesional comprometido y apasionado por mi trabajo. Disfruto colaborar en equipos multidisciplinarios y contribuir con soluciones creativas y eficientes. Estoy constantemente en busca de oportunidades para crecer profesionalmente y ampliar mis habilidades técnicas.</h3>
+<h1 align="center"><b>Hi , I'm Carlos Balaguera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccaicedo22&label=Profile%20views&color=0e75b6&style=flat" alt="ccaicedo22" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/carlos-balaguera-caicedo-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos balaguera caicedo" height="30" width="40" /></a>
-<a href="https://github.com/ccaicedo22?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="carlos balaguera" height="30" width="40" /></a>
+I am a Systems Engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a pharmaceutical distribution company that creates systems for internal and external clients. I am passionate about learning and creating new solutions that are productive, innovative, and creative, always striving to improve and add value to every project. 🚀.
+- 🌱 I’m currently learning ...
+  - Nest.js
+  - Angular
+- 🔭 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help<br>
+- 👾 Outside tech,  🎮 playing videogames,and  🎵 listening to music.
+- 📫 Reach out to me at: <a href="carlos.balagueradev@gmail.com">carlos.balagueradev@gmail.com</a>
 
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/758/884/png-transparent-circle-laravel-programming-round-icon-popular-services-brands-vol-icon-thumbnail.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## My Skills Include
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ccaicedo22&show_icons=true&locale=en&layout=compact" alt="ccaicedo22" /></p>
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+</span>
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</span>
+
+## Check out my Social Media
+
+<a href= "www.linkedin.com/in/carlos-balaguera-caicedo-dev">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">    
+</a>
+
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=ccaicedo22&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ccaicedo22)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ccaicedo22&theme=material-palenight)](https://github.com/ccaicedo22)
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccaicedo22&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ccaicedo22/ccaicedo22/output/snake.svg" alt="Snake animation" />
+
