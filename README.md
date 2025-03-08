@@ -46,14 +46,23 @@ I am a Systems Engineering student, currently halfway through my degree. I am ex
 </a>
 
 
-<h2>Github Stats:</h2>  
+<h2>Github Stats:</h2>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ccaicedo22&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccaicedo22&theme=material-palenight" alt="GitHub Streak Stats" />
-  </div>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccaicedo22&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="Languages Graph" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ccaicedo22&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccaicedo22&theme=material-palenight" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccaicedo22&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="Languages Graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
