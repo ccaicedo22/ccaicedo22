@@ -59,14 +59,15 @@ I am a Systems Engineering student, currently halfway through my degree. I am ex
         <img src="https://github-readme-stats.vercel.app/api?username=ccaicedo22&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccaicedo22&theme=material-palenight" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccaicedo22&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="Languages Graph" />
+<!--         <img src="https://github-readme-streak-stats.herokuapp.com?user=ccaicedo22&theme=dark" alt="GitHub Streak" /> -->
       </td>
     </tr>
-    <tr>
+<!--     <tr>
       <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccaicedo22&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="Languages Graph" />
       </td>
-    </tr>
+    </tr> -->
   </table>
 </div>
 
